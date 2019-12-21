@@ -194,8 +194,3 @@ PS：测试数据库会不定期恢复。
 6. 你可以二次包装出售，**但还请保留文件中的版权和作者信息**，并在你的产品说明中注明SpringBootAdmin。
 7. 你可以以任何方式获得，你可以修改包名或类名，**但还请保留文件中的版权和作者信息**。
 
-## 捐赠支持
-
-![icon](https://github.com/liu-peiyu/Geek-Framework/blob/master/src/main/resources/static/img/pay.jpg?raw=true)
-"# geek-framework"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/shishuwu/geek-framework.git git push -u origin master
-"# geek-framework" 
